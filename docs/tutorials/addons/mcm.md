@@ -708,7 +708,6 @@ end
 This is set up for the generic mcm.script example above.
 
 ```xml
-<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
   <string id="ui_mcm_menu_example_example">
   <text>Name of your mod as it appears in the MCM</text>
